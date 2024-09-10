@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WMChallenge</string>
+    <string name="name_region">%1$s, %2$s</string>
+</resources>
